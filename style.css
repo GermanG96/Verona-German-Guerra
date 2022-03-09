@@ -1,5 +1,9 @@
+
+/* Inicio estilos Navbar  */
+
 .nav-color {
-    background-color: #ffd700;
+   /* background-color: #ffd700;*/
+    background-color: black;
 }
 
 .nav-logo-img{
@@ -10,3 +14,13 @@
 .form{
     margin: 10px;
 }
+
+.navbar-toggler {
+    background-color: #ffd700;
+}
+
+#navbarSupportedContent {
+    background-color: #ffd700;
+}
+
+/* Fin estilos Navbar  */
